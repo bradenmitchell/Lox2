@@ -1,0 +1,5 @@
+# Build directories
+build/
+
+# OS files
+.DS_Store
