@@ -21,6 +21,11 @@ PointerAlignment: Left
 AllowShortEnumsOnASingleLine: false
 AllowShortFunctionsOnASingleLine: None
 
+AlignConsecutiveMacros: AcrossEmptyLines
+
+AlignConsecutiveShortCaseStatements:
+  Enabled: true
+AllowShortCaseLabelsOnASingleLine: true
 IndentCaseLabels: true
 
 InsertNewlineAtEOF: true
