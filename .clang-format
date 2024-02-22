@@ -18,8 +18,11 @@ Language: Cpp
 AlignEscapedNewlines: Left
 PointerAlignment: Left
 
+AllowShortBlocksOnASingleLine: true
 AllowShortEnumsOnASingleLine: false
 AllowShortFunctionsOnASingleLine: None
+AllowShortIfStatementsOnASingleLine: WithoutElse
+AllowShortLoopsOnASingleLine: true
 
 AlignConsecutiveMacros: AcrossEmptyLines
 
